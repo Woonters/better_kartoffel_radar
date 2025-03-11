@@ -1,0 +1,7 @@
+[package]
+name = "better_kartoffel_radar"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+kartoffel = { git = "https://github.com/Patryk27/kartoffels" }
