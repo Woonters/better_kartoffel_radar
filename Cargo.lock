@@ -18,7 +18,8 @@ dependencies = [
 [[package]]
 name = "kartoffel"
 version = "0.7.0"
-source = "git+https://github.com/Patryk27/kartoffels#4f5dcbabc6232d6599ca393b0fce61f44d9d1a0a"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "b7df743245de425f95d0fefe86e0d64c7fff4fa0da3bf439c96ecbaaf6446dcf"
 dependencies = [
  "spin",
  "talc",

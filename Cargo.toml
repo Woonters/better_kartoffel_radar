@@ -2,6 +2,13 @@
 name = "better_kartoffel_radar"
 version = "0.1.0"
 edition = "2024"
+categories = []
+description = "A wrapper around the radar functionality in the kartoffel game hosted at https://kartoffels.pwy.io"
+authors = ["Jemma <woonters@gmail.com>"]
+repository = "https://github.com/Woonters/better_kartoffel_radar.git"
+readme = "README.md"
+license = "MIT"
+keywords=["kartoffel"]
 
 [dependencies]
-kartoffel = { git = "https://github.com/Patryk27/kartoffels" }
+kartoffel = {version="0.7.0"}

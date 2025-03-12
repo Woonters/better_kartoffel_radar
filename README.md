@@ -43,6 +43,8 @@ if radar.time_to_next_scan > 20_000 {
 Currently this doesn't handel the bot id functionality for the radar
 this should be added quite soon 
 
+I'll also get around to actually writing those tests! 
+
 ## Contributing
 
 Hey you, yes, you!
